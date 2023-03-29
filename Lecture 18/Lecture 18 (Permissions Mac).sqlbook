@@ -33,3 +33,5 @@ in the finder window
 - Select the option 
 
 ``` Copy "us_congress_members.csv" as PATHNAME ```
+-- SQLBook: Code
+/private/tmp/data/us_congress_members.csv
